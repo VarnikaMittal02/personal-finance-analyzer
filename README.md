@@ -31,7 +31,7 @@ A comprehensive personal finance management application built with Next.js, Reac
 ### Prerequisites
 
 - Node.js (version 14 or later)
-- npm or yarn
+- npm or yarnpm 
 
 ### Installation
 
